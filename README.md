@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johannkoeh2
+- 👋 Hi, I’m Johann @johannkoeh2
 - 👀 I’m interested in full stack development & snowboarding
 - 🌱 I’m currently learning kotlin & training my dobberman 
 - 💞️ I’m looking to collaborate on any cool project (if i have the bandwidth), I particularly like automating inefficiency away. 
